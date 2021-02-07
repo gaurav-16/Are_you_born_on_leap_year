@@ -1,0 +1,42 @@
+#otp-text {
+    display: block;
+    border: 1px solid black;
+    height: 5vh;
+    width: 45%;
+    height: 10vh;
+    margin: auto;
+    margin-top: 1rem;
+    background-color: white;
+    border-radius: 2vh;
+    padding: 1rem;
+}
+
+body{
+    background-color:skyblue
+}
+
+input {
+    display: block;
+    margin: auto;
+    margin-bottom: 0.5rem;
+    width: 40%;
+    height: 7vh;
+    
+    border: 1px solid black;
+}
+#inp-name{
+    border-top-left-radius: 2vh;
+    border-top-right-radius: 2vh;
+}
+#inp-date{
+    border-bottom-left-radius: 2vh;
+    border-bottom-right-radius: 2vh;
+    margin-bottom: 1rem;
+}
+button{
+    margin-left: 32rem;
+    display: block;
+    padding: 0.2rem;
+    border-radius:none;
+    background-color:limegreen;
+}
